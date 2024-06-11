@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm **Krish**, a passionate Flutter developer with
 - 👯 I’m looking to collaborate on open-source Flutter projects and contribute to the vibrant community.
 - 🤔 I’m seeking help with advanced state management techniques and animations in Flutter.
 - 💬 Ask me about anything related to Flutter, Dart, and mobile app development.
-- 📫 How to reach me: [krish.dev@example.com](mailto:krish.dev@example.com)
+- 📫 How to reach me: [krish.dev@example.com](mailto:kri240799@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, you can find me exploring the great outdoors or experimenting with new recipes in the kitchen.
 
@@ -23,9 +23,10 @@ Welcome to my GitHub profile! I'm **Krish**, a passionate Flutter developer with
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/krish)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://krish.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish0034/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kumar_krishn/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krish0034)
+
 
 ### 📝 Latest Blog Posts
 
