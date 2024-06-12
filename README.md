@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-<iframe src="https://github.com/Krish0034/profile/blob/main/index.html" style="border:none;width:100%;height:200px;"></iframe>
+<iframe src="https://github.com/Krish0034/profile/" style="border:none;width:100%;height:200px;"></iframe>
 
 
 
