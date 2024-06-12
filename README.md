@@ -1,5 +1,5 @@
 ### Hi there! 👋
-<div class='console-container'><span id='text'></span><div class='console-underscore' id='console'>&#95;</div></div>
+<div class='console-container'><span id='text'>BHHHHHH</span><div class='console-underscore' id='console'>&#95;</div></div>
 
 <script>
   consoleText(['Hello there!', 'Welcome!', 'Nice to meet you!'], 'text', ['tomato', 'rebeccapurple', 'lightblue']);
