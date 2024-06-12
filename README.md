@@ -1,19 +1,5 @@
-<div class="header">
-    <h2>👋 Hi there, I'm Krish! 👨‍💻</h2>
-</div>
+<div class='console-container'><span id='text'></span><div class='console-underscore' id='console'>&#95;</div></div><style>@import url(https://fonts.googleapis.com/css?family=Khula:700);body{background:#111;}.hidden{opacity:0;}.console-container{font-family:Khula;font-size:4em;text-align:center;height:200px;width:600px;display:block;position:absolute;color:white;top:0;bottom:0;left:0;right:0;margin:auto;}.console-underscore{display:inline-block;position:relative;top:-0.14em;left:10px;}</style><script>consoleText(['Hello World.','Console Text','Made with Love.'],'text',['tomato','rebeccapurple','lightblue']);function consoleText(e,t,n){void 0===n&&(n=['#fff']);var o=!0,r=document.getElementById("console"),l=1,a=1,u=!1,i=document.getElementById(t);i.setAttribute("style","color:"+n[0]),window.setInterval(function(){0===l&&0===u&&(u=!0,i.innerHTML=e[0].substring(0,l),window.setTimeout(function(){var t=n.shift();n.push(t);var o=e.shift();e.push(o),a=1,i.setAttribute("style","color:"+n[0]),l+=a,u=!1},1e3))},120),window.setInterval(function(){o===!0?(r.className="console-underscore hidden",o=!1):(r.className="console-underscore",o=!0)},400)}</script>
 
-<style>
-    .header {
-        text-align: center;
-        margin-bottom: 20px;
-    }
-
-    .header h2 {
-        font-size: 2.5em;
-        color: #333;
-        margin: 0;
-    }
-</style>
 
 ### 🚀 About Me
 
