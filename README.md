@@ -9,7 +9,6 @@
 ![Greeting](https://github.com/Krish0034/profile/blob/main/developer.gif)
 
 
-[![Pub Version](https://img.shields.io/badge/pub-v1.0.0-blue?style=flat-square&logo=dart&logoColor=white)](https://pub.dev/packages/example_package)
 
 ---
 
