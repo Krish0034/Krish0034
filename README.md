@@ -1,6 +1,7 @@
-## Hi there 👋
-
-Welcome to my GitHub profile! I'm **Krish**, a passionate Flutter developer with a knack for creating stunning, high-performance mobile applications. 
+<div align="center">
+  <h2>👋 Hi there, I'm Krish! 👨‍💻</h2>
+  <p>Welcome to my GitHub profile! I'm a passionate Flutter developer with a knack for creating stunning, high-performance mobile applications.</p>
+</div>
 
 ### 🚀 About Me
 
@@ -26,7 +27,6 @@ Welcome to my GitHub profile! I'm **Krish**, a passionate Flutter developer with
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish0034/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kumar_krishn/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krish0034)
-
 
 ### 📝 Latest Blog Posts
 
