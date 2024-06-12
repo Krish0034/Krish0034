@@ -9,7 +9,7 @@
 ![Greeting](https://github.com/Krish0034/profile/blob/main/developer.gif)
 
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7BA2A?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/krish0034)
+[![Buy Me a Coffee](https://github.com/Krish0034/profile/blob/main/feature_bg_coffee.jpg)](https://buymeacoffee.com/krish0034)
 
 
 
