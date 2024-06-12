@@ -1,5 +1,5 @@
 ### Hi there! 👋
-(https://github.com/Krish0034/profile/blob/main/index.html)
+![Greeting](https://github.com/Krish0034/profile/blob/main/developer.gif)
 
 🚀 About Me
 - 🔭 I’m currently working on exciting Flutter projects that push the boundaries of mobile app development.
