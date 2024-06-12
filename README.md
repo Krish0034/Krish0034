@@ -1,7 +1,19 @@
-<div align="center">
-  <h2>👋 Hi there, I'm Krish! 👨‍💻</h2>
-  <p>Welcome to my GitHub profile! I'm a passionate Flutter developer with a knack for creating stunning, high-performance mobile applications.</p>
+<div class="header">
+    <h2>👋 Hi there, I'm Krish! 👨‍💻</h2>
 </div>
+
+<style>
+    .header {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .header h2 {
+        font-size: 2.5em;
+        color: #333;
+        margin: 0;
+    }
+</style>
 
 ### 🚀 About Me
 
