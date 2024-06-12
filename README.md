@@ -1,5 +1,21 @@
-### Hi there! 👋
+<div align="center">
+
+# Welcome to My GitHub Profile!
+
+
 ![Greeting](https://github.com/Krish0034/profile/blob/main/developer.gif)
+
+
+<h2>English:</h2> 
+<h1>Welcome to my GitHub profile! Let's embark on a journey of learning and innovation together.</h1>
+
+<h2>Hindi:</h2> 
+<h1>मेरे गिटहब प्रोफ़ाइल में आपका स्वागत है! आइए, हम मिलकर सीखने और नवाचार की यात्रा पर चलें।</h1>
+
+<h2>Sanskrit:</h2> 
+<h1>मम गिटहब प्रोफाइलस्य स्वागतं करोमि! आगच्छ, वयं सह शिक्षणस्य नवोन्मेषस्य च यात्रां कुर्मः।</h1>
+
+</div>
 
 🚀 About Me
 - 🔭 I’m currently working on exciting Flutter projects that push the boundaries of mobile app development.
